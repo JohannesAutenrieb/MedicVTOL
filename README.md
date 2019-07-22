@@ -9,7 +9,7 @@ This repository contains files which have been created for a first conceptual de
 This Project was created as part of the Introduction to UAS Technology module which was held by Dr. Nicolas Avdelidis, Cranfield University for the students of the master course Autonomous Vehicle Dynamics and Control at Cranfield University. This repository contains the MATLAB/Simulink software in which the longitudinal flight dynamic model of a transsonic missile has been augmented with uncertanties and afterwards analysed.
 
 <p align=center>
-<img src="https://github.com/JohannesAutenrieb/RobustMissileControl/blob/master/img/inner_step_unc.svg" alt="inner" height=100px>
+<img src="https://github.com/JohannesAutenrieb/MedicVTOL/blob/master/img/sketch.JPG" alt="inner" height=100px>
 
 The problem presented in this assignment was to use prior given requirements to develope an UAV and analyse its aerodynamic properties in a simplified manner. 
 
