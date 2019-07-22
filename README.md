@@ -1,7 +1,7 @@
 # Unmanned Aerial Systems Assignment - Autonomous Vehicle Dynamics and Control, Cranfield University
 
 <p align=center>
-<img src="https://github.com/JohannesAutenrieb/RobustMissileControl/blob/master/img/missile.JPG" alt="Statemachine_main" height=500px>
+<img src="https://github.com/JohannesAutenrieb/MedicVTOL/blob/master/img/uav_rendert_blau_weg.jpg" height=500px>
 
 This repository contains files which have been created for a first conceptual design of a tilt-rotor UAV with an application in the field of medical goods delivery.
 
@@ -20,4 +20,4 @@ This repository contains the CAD model, which has been created with CATIA V5, th
 For a further understanding is the assignment attached as a pdf. Due to a page restriction in the main part, is the design report of the system attached as an appendix.
 
 <p align=center>
-<img src="https://github.com/JohannesAutenrieb/RobustMissileControl/blob/master/img/bode_mag_weights.svg" alt="Statemachine_main" height=500px>
+<img src="https://github.com/JohannesAutenrieb/MedicVTOL/blob/master/img/aerodynamics_white_good.jpg" alt="Statemachine_main" height=500px>
