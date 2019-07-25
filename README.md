@@ -1,7 +1,7 @@
 # Unmanned Aerial Systems Assignment - Autonomous Vehicle Dynamics and Control, Cranfield University
 
 <p align=center>
-<img src="https://github.com/JohannesAutenrieb/MedicVTOL/blob/master/img/uav_rendert_blau_weg.jpg" height=500px>
+<img src="https://github.com/JohannesAutenrieb/MedicVTOL/blob/master/img/MedicVTOL.JPG" height=500px>
 
 This repository contains files which have been created for a first conceptual design of a tilt-rotor UAV with an application in the field of medical goods delivery.
 
